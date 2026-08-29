@@ -20,7 +20,6 @@ I enjoy taking on new challenges, experimenting with code, and turning what I le
 
 ### 🎯 Currently Focused On
 
-* 🐍 Strengthening my **Python** skills
 * 🌐 Learning **Web Development with HTML**
 * ⚙️ Improving my **C & C++** programming
 * 🧠 Building strong **problem-solving fundamentals**
@@ -34,7 +33,7 @@ I enjoy taking on new challenges, experimenting with code, and turning what I le
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
@@ -57,7 +56,6 @@ I'm currently building my programming foundation and working towards creating pr
 
 More projects will be added as I continue exploring:
 
-* 🐍 Python programming
 * ⚙️ C/C++ programming
 * 🌐 Web development
 * 🧩 Problem solving
@@ -101,11 +99,7 @@ HTML
  │
  ├── Web Development
  │
-Python
- │
- ├── Programming Fundamentals
- │
-C
+ C
  │
  └── System & Programming Fundamentals
  │
