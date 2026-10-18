@@ -133,7 +133,7 @@ When I'm not programming, I enjoy:
 
 ## 📫 Connect With Me
 
-📧 **Email:** [abhishek@gmail.com](mailto:abhishek@gmail.com)
+📧 **Email:** [abhishekwalande@gmail.com](mailto:abhishekwalande@gmail.com)
 
 📍 **Pune, India**
 
