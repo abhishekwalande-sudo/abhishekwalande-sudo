@@ -12,18 +12,18 @@
 
 ## 🚀 About Me
 
-I'm **Abhishek Walande**, a Computer Science undergraduate at **MIT World Peace University**, passionate about programming, technology, and continuous learning.
+I'm **Abhishek Walande**, a third-year Computer Science undergraduate at **MIT World Peace University**, passionate about programming, technology, and continuous learning.
 
-I'm currently building my foundation in **Python, HTML, C, and C++**, while exploring different areas of computer science and software development.
+I work with **C, C++, Python and Swift**, and I'm comfortable with **Data Structures & Algorithms, OOP and SQL**. I'm also a member of my college's selective **iOS Development Centre**, where 100 students from the college learn to build real iOS apps.
 
 I enjoy taking on new challenges, experimenting with code, and turning what I learn into practical projects.
 
 ### 🎯 Currently Focused On
 
-* 🌐 Learning **Web Development with HTML**
-* ⚙️ Improving my **C & C++** programming
-* 🧠 Building strong **problem-solving fundamentals**
-* 📚 Exploring different areas of **Computer Science**
+* 📱 Building an **iOS app in Swift** that makes F1 telemetry data easy to understand
+* 🐍 Learning **FastAPI** for backend development
+* 🧠 Learning **Machine Learning** fundamentals
+* ⚙️ Strengthening **DSA** and problem-solving in C & C++
 * 🚀 Working towards becoming a skilled software developer
 
 ---
@@ -33,35 +33,66 @@ I enjoy taking on new challenges, experimenting with code, and turning what I le
 ### Languages
 
 <p>
- 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-### Web Development
+### Web & Backend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-> 🌱 **Learning:** C, C++ and expanding my programming & development skills.
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### Core CS
+
+Data Structures & Algorithms • Object-Oriented Programming • SQL / DBMS • Machine Learning
+
+> 🌱 **Learning:** FastAPI and expanding my development skills.
 
 ---
 
 ## 📂 Projects
 
-I'm currently building my programming foundation and working towards creating projects that demonstrate my skills and learning journey.
+### 🏎️ F1 Telemetry App *(In Progress)*
+**Swift • Xcode**
 
-### 🔨 Coming Soon
+An iOS app that makes Formula 1 telemetry data easy to understand, with a gamified experience where you change parameters and see the results. Features include telemetry views, championship standings and a parameter-tweaking mode.
 
-More projects will be added as I continue exploring:
+### 🗜️ Huffman File Compressor
+**C++ • OOP**
 
-* ⚙️ C/C++ programming
-* 🌐 Web development
-* 🧩 Problem solving
-* 💡 Computer Science concepts
+A file compression tool built with Huffman coding as an Object-Oriented Programming mini project, using data structures such as trees and priority queues.
 
-> ⭐ Check back soon to follow my development journey!
+### 💰 Crypto Stock Tracker
+**SQL • Python • HTML**
+
+A database-driven mini project for tracking crypto stock data, built for the DBMS course.
+
+> ⭐ More projects coming soon as I keep building!
+
+---
+
+## 🏆 Experience & Activities
+
+* 📱 **Member, iOS Development Centre, MIT WPU**: one of 100 students from the college learning iOS app development in Swift
 
 ---
 
@@ -72,12 +103,10 @@ More projects will be added as I continue exploring:
 **Bachelor of Technology — Computer Science**
 **2024 – 2028**
 
-Currently pursuing my B.Tech degree and developing a strong foundation in programming and computer science.
-
 ### Bal Shikshan Mandir English Medium School
 
 **10th — SSC**
-**2010 – 2022**
+**2010 – 2022** | 88.6%
 
 ---
 
@@ -97,15 +126,23 @@ Currently pursuing my B.Tech degree and developing a strong foundation in progra
 ```text
 HTML
  │
- ├── Web Development
+ └── Web Development
  │
- C
+C
  │
  └── System & Programming Fundamentals
  │
 C++
  │
- └── Data Structures & Problem Solving
+ └── DSA, OOP & Problem Solving
+ │
+Python
+ │
+ └── FastAPI & Machine Learning
+ │
+Swift
+ │
+ └── iOS App Development
  │
  ▼
 🚀 Software Development
@@ -135,6 +172,8 @@ When I'm not programming, I enjoy:
 
 📧 **Email:** [abhishekwalande@gmail.com](mailto:abhishekwalande@gmail.com)
 
+💼 **LinkedIn:** [Abhishek Walande](https://www.linkedin.com/in/abhishek-walande-6127643a0/)
+
 📍 **Pune, India**
 
 ---
@@ -149,9 +188,4 @@ When I'm not programming, I enjoy:
 
 **Explore my repositories and follow along with my journey from a Computer Science student to a software developer.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishekwalande\&style=flat-square)
-
-<!---
-Note: Replace "abhishekwalande" in the profile-view badge with your actual GitHub username.
-Add LinkedIn, GitHub project links, and other profiles when available.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekwalande-sudo&style=flat-square)
